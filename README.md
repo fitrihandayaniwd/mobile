@@ -1,0 +1,2 @@
+# mobile
+Aplikasi jadwal kuliah
